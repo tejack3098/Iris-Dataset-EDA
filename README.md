@@ -1,4 +1,4 @@
-iris dataset
+# Exploratory Data Analysis of Iris Dataset 
 
 In this project, I performed exploratory data analysis on the Iris dataset, a classic dataset in machine learning and statistics. The goal of the project was to understand the relationships between the features (sepal length, sepal width, petal length, and petal width) and the target variable (species).
 
