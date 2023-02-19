@@ -10,9 +10,10 @@ Finally, I drew conclusions and insights from the analysis and suggested further
 
 Tools and Techniques:
 
-Python programming language
-Jupyter Notebook
-Pandas for data manipulation and analysis
-Matplotlib and Seaborn for data visualization
-NumPy for numerical calculations
+- Python programming language
+- Jupyter Notebook
+- Pandas for data manipulation and analysis
+- Matplotlib and Seaborn for data visualization
+- NumPy for numerical calculations
+
 This project helped me gain experience in data analysis, data visualization, and feature engineering, and also provided me with a deeper understanding of the Iris dataset.
